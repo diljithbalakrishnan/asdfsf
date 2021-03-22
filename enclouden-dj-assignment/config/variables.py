@@ -1,0 +1,7 @@
+BROWSER = "Chrome"
+TRACING = "ON"
+IMPLICIT_WAIT_TIME = "20"
+PAGE_LOAD_TIMEOUT = "20"
+
+COUNTRY_NAME = "Trumbull"
+NOTICE_FLOW = "Notice of Public Auction"
